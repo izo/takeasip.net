@@ -54,6 +54,6 @@
     "gulp-inject": "4.3.0",
     "gulp-svgmin": "1.2.4",
     "gulp-svgstore": "6.1.1",
-    "svg-sprite-loader": "0.1.2"
+    "svg-sprite-loader": "0.3.1"
   }
 }
