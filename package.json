@@ -40,7 +40,7 @@
     "gulp-util": "^3.0.7",
     "imports-loader": "^3.0.0",
     "netlify-cms": "^2.0.0",
-    "postcss-cssnext": "^2.7.0",
+    "postcss-cssnext": "^3.0.0",
     "postcss-import": "^14.0.0",
     "postcss-loader": "^0.13.0",
     "postcss-uncss": "^0.17.0",
